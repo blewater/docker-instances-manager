@@ -1,9 +1,3 @@
-# Docker exercise response #
-### by Mario Karagiorgas ### 
-salem@gmail.com
-
-6936640563
-
 Tool for meeting these requirements:
 
 * Create a **lean** Docker Image from the *Dockefile* in this repo.
