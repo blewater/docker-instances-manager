@@ -1,4 +1,4 @@
-Tool for meeting these requirements:
+### Quick Start ###
 
 * Create a **lean** Docker Image from the *Dockefile* in this repo.
 
@@ -15,10 +15,6 @@ Tool for meeting these requirements:
 * Displaying and aggregating all the logging input streams of the live containers similarly to the statistics streams.
 
 * Concurrently remove all live instances.
-
-### Deliverable ###
-
-This is a basic statically configured command line application that is efficient and scalable.
 
 ### Testing ### 
 
